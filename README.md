@@ -16,5 +16,3 @@ This dataset has funding information of the Indian startups from January 2015 to
 1. Find out what type of startups are getting funded in the last few years?
 2. Who are the important investors?
 3. What are the hot fields that get a lot of funding these days?
-### Note :
-{"gitdown": "gitinfo", "Download dataset from here": "https://drive.google.com/open?id=1UaWCHLBZpxCmTSrmQQ5RXM5OMay17z8V"}
