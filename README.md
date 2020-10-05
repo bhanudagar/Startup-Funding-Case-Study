@@ -34,6 +34,7 @@ But now, there can be a case when the invesrtor has invested in the same startup
 
 After all this, I further filtered the results on the basis of types of Funding (Crowd funding, seed funding etc.,).
 
-Now, finally, I found out the top 5 investors who have invested in different startups and whose best-suited investment type is Private Equity.
+Now, finally, I found out the top 5 investors who have invested in different startups and whose best-suited investment type is Private Equity..
+
 
 
